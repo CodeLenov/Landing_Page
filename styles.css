@@ -144,3 +144,16 @@ button {
 }
 
 /*----------footer----------*/
+
+footer {
+	background-color: #000;
+	color: #999;
+	padding-right: 10px;
+	margin: -16px 0 -16px 0;
+	text-align: right;
+	font-size: 12px;
+}
+
+footer p {
+	margin: 0;
+}
