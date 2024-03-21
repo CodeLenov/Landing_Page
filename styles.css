@@ -78,6 +78,19 @@ a:hover {
 
 /*----------main #ancap_institute----------*/
 
+#ancap_institute {
+	margin: auto 50px;
+}
+
+#ancap_section {
+	text-align: center;
+}
+
+#ancap_main {
+	display: flex;
+	gap: 50px;
+}
+
 /*----------main #wire----------*/
 
 #wire_section {
