@@ -1,7 +1,11 @@
+/*----------body----------*/
+
 body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 }
+
+/*----------header----------*/
 
 header {
 	background-color: #555;
@@ -53,6 +57,8 @@ li a:hover {
 	background-color: #111;
 }
 
+/*----------main----------*/
+
 main {
 	background-color: #111;
 	color: #ff9;
@@ -68,6 +74,25 @@ a:hover {
 	color: #ff0;
 }
 
-section {
+/*----------main #ancap_institute----------*/
+
+/*----------main #wire----------*/
+
+#wire_section {
 	display: flex;
+	justify-content: center;
+	flex-direction: row;
 }
+
+#wire_section a {
+	
+
+}
+
+#wire_section img {
+	align-items: ;
+}
+
+/*----------main #subscribe----------*/
+
+/*----------footer----------*/
