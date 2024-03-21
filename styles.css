@@ -67,6 +67,10 @@ main {
 	padding: 70px 20px 20px 20px;
 }
 
+h1 {
+	text-align: center;
+}
+
 a {
 	text-decoration: none;
 	color: #ff9;
@@ -88,6 +92,7 @@ a:hover {
 
 #ancap_main {
 	display: flex;
+	flex-direction: row;
 	gap: 50px;
 }
 
@@ -96,8 +101,8 @@ a:hover {
 #wire_section {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: center;
 	flex-direction: row;
+	justify-content: center;
 	text-align: center;
 	gap: 20px;
 }
@@ -120,5 +125,18 @@ a:hover {
 }
 
 /*----------main #subscribe----------*/
+
+#subscribe section {
+	display: flex;
+	flex-direction: row;
+}
+
+button {
+	font-size: 20px;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+}
 
 /*----------footer----------*/
