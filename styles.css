@@ -64,7 +64,7 @@ li a:hover {
 main {
 	background-color: #111;
 	color: #ff9;
-	padding: 70px 20px 20px 20px;
+	padding: 60px 20px 20px 20px;
 }
 
 h1 {
@@ -83,7 +83,8 @@ a:hover {
 /*----------main #ancap_institute----------*/
 
 #ancap_institute {
-	margin: auto 50px;
+	padding-top: 70px;
+	margin-top: -70px;
 }
 
 #ancap_section {
@@ -97,6 +98,11 @@ a:hover {
 }
 
 /*----------main #wire----------*/
+
+#wire {
+	padding-top: 60px;
+	margin-top: -60px;
+}
 
 #wire_section {
 	display: flex;
@@ -125,6 +131,11 @@ a:hover {
 }
 
 /*----------main #subscribe----------*/
+
+#subscribe {
+	padding-top: 60px;
+	margin-top: -60px;
+}
 
 #subscribe section {
 	margin: auto 50px;
