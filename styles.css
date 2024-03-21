@@ -136,6 +136,7 @@ a:hover {
 button {
 	font-size: 40px;
 	background-color: #ff0;
+	border: none;
 	margin: auto;
 	display: flex;
 	flex-direction: column;
