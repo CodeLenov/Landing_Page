@@ -127,16 +127,20 @@ a:hover {
 /*----------main #subscribe----------*/
 
 #subscribe section {
+	margin: auto 50px;
 	display: flex;
 	flex-direction: row;
+	gap: 50px;
 }
 
 button {
-	font-size: 20px;
+	font-size: 40px;
+	background-color: #ff0;
 	margin: auto;
 	display: flex;
 	flex-direction: column;
 	align-self: center;
+	text-align: center;
 }
 
 /*----------footer----------*/
