@@ -55,6 +55,7 @@ li a {
 
 li a:hover {
 	background-color: #111;
+	color: #ff0;
 }
 
 /*----------main----------*/
@@ -80,17 +81,32 @@ a:hover {
 
 #wire_section {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	flex-direction: row;
+	text-align: center;
+	gap: 20px;
 }
 
 #wire_section a {
-	
-
+	flex: 1 1 0%;
 }
 
 #wire_section img {
-	align-items: ;
+	max-width: 100%;
+}
+
+#wire_blockquote {
+	background-color: #222;
+	padding: 50px 200px;
+}
+
+#wire_blockquote blockquote {
+	color: #ff5;
+}
+
+#wire_blockquote p {
+	text-align: right;
 }
 
 /*----------main #subscribe----------*/
