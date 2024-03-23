@@ -1,5 +1,6 @@
-# Landing_Page
-theOdinProject - Fundamentals Course - Landing Page - 02/05 - CSS, HTML
+# landing_page_top
+
+Landing Page | CSS, HTML | Foundations Course (JavaScript, CSS, HTML, Git) | 02/05 | The Odin Project | 2024
 
 Don’t forget to commit early & often! You can reference the Commit Message lesson here!
 
