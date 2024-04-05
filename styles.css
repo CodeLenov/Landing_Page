@@ -93,8 +93,14 @@ a:hover {
 
 #ancap_main {
 	display: flex;
+	flex-wrap: wrap;
 	flex-direction: row;
+	justify-content: space-evenly;
 	gap: 50px;
+}
+
+#ancap_main div {
+	flex: 1 1 0%;
 }
 
 /*----------main #wire----------*/
@@ -123,7 +129,7 @@ a:hover {
 
 #wire_blockquote {
 	background-color: #222;
-	padding: 50px 200px;
+	padding: 5vh 10vw;
 }
 
 #wire_blockquote blockquote {
@@ -142,8 +148,9 @@ a:hover {
 	padding: 10px;
 	border: 1px solid yellow;
 	display: flex;
+	flex-wrap: wrap;
 	flex-direction: row;
-	gap: 50px;
+	gap: 10px;
 }
 
 button {
@@ -153,6 +160,7 @@ button {
 	border: none;
 	margin: auto;
 	display: flex;
+	flex-wrap: wrap;
 	flex-direction: column;
 	align-self: center;
 }
