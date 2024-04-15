@@ -1,13 +1,13 @@
 # landing_page_top
 Landing Page | CSS, HTML | Front End Foundations Course (JavaScript, CSS, HTML, Git) | 02/05 | The Odin Project | 2024
 
-Don’t forget to commit early & often! You can reference the Commit Message lesson here - `https://www.theodinproject.com/lessons/foundations-commit-messages`!
+Don’t forget to commit early & often! You can reference the Commit Message lesson here - https://www.theodinproject.com/lessons/foundations-commit-messages !
 
 Landing Page
 
 1. Download the design images and take a look at what you’re going to be creating here. Image One (Full Design), Image Two (Color and Fonts)
-	`https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png`
-	`https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png`
+	https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
+	https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png
 	- The font that’s being used in the images is roboto.
 	- Hero text is the statement that appears at the top of a web page.
 
