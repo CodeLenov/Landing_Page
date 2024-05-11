@@ -83,7 +83,7 @@ a:hover {
 	margin-top: -60px;
 }
 
-#ancap_section {
+#ancap_article {
 	text-align: center;
 }
 
@@ -106,7 +106,7 @@ a:hover {
 	margin-top: -60px;
 }
 
-#wire_section {
+#wire_article {
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
@@ -115,11 +115,11 @@ a:hover {
 	gap: 20px;
 }
 
-#wire_section a {
+#wire_article a {
 	flex: 1 1 0%;
 }
 
-#wire_section img {
+#wire_article img {
 	max-width: 100%;
 }
 
