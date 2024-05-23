@@ -1,5 +1,5 @@
 # landing_page_top
-Landing Page | CSS, HTML | Front End Foundations Course (JavaScript, CSS, HTML, Git) | 02/05 | The Odin Project | 2024
+Landing Page | CSS, HTML | Front End Foundations (JavaScript, CSS, HTML, Git) | 02/05 | The Odin Project | 2024
 
 Don’t forget to commit early & often! You can reference the Commit Message lesson here - https://www.theodinproject.com/lessons/foundations-commit-messages !
 
