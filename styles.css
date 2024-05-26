@@ -160,6 +160,20 @@ button {
 	align-self: center;
 }
 
+button a {
+	color: #111;
+}
+
+button a:hover {
+	background-color: #ff9;
+	color: #111;
+}
+
+button a:active {
+	background-color: #ff0;
+	color: #fff;
+}
+
 /*----------footer----------*/
 
 footer {
